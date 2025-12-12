@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "ZBY"
+title                    : "Baoyue Zhang"
 title_separator          : "-"
 name                     : &name "Baoyue Zhang(张宝月)"
 
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Baoyue Zhang"
   pronouns         : #"she"  
   bio              : "Ph.D Student"
