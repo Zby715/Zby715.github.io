@@ -1,5 +1,3 @@
-**Research Interests**: Neuromorphic Vision and Embodied AI
-
 ## Biography
 
 Baoyue Zhang received her B.S. degree in Computer Science from Dalian University of Technology, Dalian, China, in 2024. She is currently a Ph.D. student at the Institute for Artificial Intelligence and the School of Computer Science, Peking University, Beijing, China. Her research interests focus on neuromorphic vision and embodied AI, exploring innovative ways to bridge the gap between sensory processing and autonomous systems.
