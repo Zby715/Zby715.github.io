@@ -1,21 +1,7 @@
----
-permalink: /
-title: "Baoyue Zhang's Personal Homepage"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-# Baoyue Zhang
-
-Ph.D. Student in Computer Science and Technology  
-Peking University | School of Computer Science
-
 ## Personal Information
 
-- **Name**: Baoyue Zhang (张宝月)
-- **Research Interests**: Neuromorphic Vision and Embodied AI
+Peking University | School of Computer Science
+**Research Interests**: Neuromorphic Vision and Embodied AI
 
 ## Biography
 
@@ -55,6 +41,6 @@ In this project, the dynamic detection of high-speed obstacles was enhanced by l
 ### Real-time Low-latency Detection for Autonomous Robots with a Neuromorphic Spike Camera (2024 - 2025)
 **Lead Author, Corresponding Author: Zhaofei Yu**  
 This research explores a novel paradigm for autonomous robotic perception using neuromorphic cameras. The system boasts a low-latency response of less than 6 ms, offering over 300 Hz of system response frequency, enabling high-speed machine perception.  
-**Innovations**:
+
 
 
