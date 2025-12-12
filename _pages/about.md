@@ -1,6 +1,14 @@
-## Personal Information
+---
+permalink: /
+title: "Baoyue Zhang's Personal Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Peking University | School of Computer Science
+
 **Research Interests**: Neuromorphic Vision and Embodied AI
 
 ## Biography
